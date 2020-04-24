@@ -1,0 +1,5 @@
+frontend/node_modules
+backend/venv
+backend/src/database/__pycache__
+backend/src/auth/__pycache__
+backend/src/__pycache__
